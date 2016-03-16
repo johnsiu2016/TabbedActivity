@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity implements LoginFragment.OnF
                 case 1:
                     return "SECTION 2";
                 case 2:
-                    return "SECTION 3";
+                    return "LOGIN";
             }
             return null;
         }
